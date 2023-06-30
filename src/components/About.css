@@ -1,0 +1,53 @@
+.about-container h1 {
+    color: black;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.about-card {
+    background-color: antiquewhite;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.about-card h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.about-card p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.about-card a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.about-card a:hover {
+    color: #555;
+}
+
+.about-card .icon {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.about-part2,
+.about-part3,
+.about-part4,
+.about-part5,
+.about-part6 {
+    background-color: antiquewhite;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

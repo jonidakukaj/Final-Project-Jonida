@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+nav ul, .menue{
+  display: flex;
+  align-items: center;
+}
+a {
+  margin: 1rem;
+}
+
+
+.inputfield {
+  margin: .5rem;
+  padding: .5rem;
+}
+.post {
+  display: flex;
+  border-radius: 1rem;
+  background-color: bisque;
+  justify-content: space-between;
+  margin: .5rem;
+  padding: .5rem;
+}

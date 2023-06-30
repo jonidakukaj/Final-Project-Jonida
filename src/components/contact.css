@@ -1,0 +1,86 @@
+.contact-part1 {
+  margin-bottom: 40px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-part1 h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.contact-part1 p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.contact-part2 {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-part2 h2 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.contact-part3 {
+  margin-top: 40px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-part3 p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.contact-part3 p:last-child {
+  margin-bottom: 0;
+}
+
+.contact-part3 .contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-part3 .contact-info p {
+  margin-bottom: 10px;
+}
+
+.contact-part3 .contact-info a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.contact-part3 .contact-info a:hover {
+  color: #555;
+}
+
+.contact-part1 img {
+  width: 50%; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Resize and crop the image to cover the container */
+  object-position: center; /* Position the image at the center */
+}
+
+  

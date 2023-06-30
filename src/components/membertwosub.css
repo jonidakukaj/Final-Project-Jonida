@@ -1,0 +1,58 @@
+/* membertwosub.css */
+
+.sub-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .description {
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .additional-info {
+    margin-bottom: 20px;
+  }
+  
+  .additional-info p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .contact-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rosybrown;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contact-button:hover {
+    background-color: blue;
+  }
+  
+  .baby{
+    display:flex;
+    justify-content: center;
+  }
+
+  .baby1 {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    border:2px solid #ced1e1;
+    border-radius: 20px;
+    width: 50rem;
+    padding: 2rem;
+    box-shadow: 0px 0px 20px 20px #ced1e1; 
+  
+  }

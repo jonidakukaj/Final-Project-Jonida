@@ -1,0 +1,43 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Kristel Joy H. 81377 München Hadern",
+            "content": "I am a wife and a mother to a 3 year old daughter. I am a stay at home mom since my daughter was born. I am from the Philippines and a physician by profession.Currently, i am working in a Kita in a minijob basis. So i have available time to do babysitting. I have experience with infants until 6years old. ",
+            "url": "images/babysitter1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Franzi S, 80637 München Neuhausen-Nymphenburg",
+            "content": "Hallo zusammen,Mein Name ist Franzi und ich bin 22 Jahre alt. Ich wohne seit einem halben Jahr in München. Davor habe ich bei meinen Eltern in der Nähe von Fürstenfeldbruck gelebt. Dort habe ich ein FSJ im Kindergarten gemacht. Das hat mir super viel Spaß gemacht, weshalb ich auch nach meinem FSJ bei einigen Familien als Babysitter war :)! Ich würde mich freuen sie und Ihre Kinder kennenzulernen und Ihre Familie zu unterstützen.",
+            "url": "images/babysitter2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Zita P. 81925 Bogenhausen",
+            "content": "Mein Name ist Zita.Ich komme aus Ungarn.Ich bin 28 Jahre alt, bin ledig.Ich wohne in Oberföhring-München.Ich würde sehr gerne Familien kennenlernen wo ich babysitten kann,damit ich werde noch mehr Erfahrung haben mit Kinder.In Ungarn,zu Hause habe ich als Kinderpflegerin gelernt und meinem Ausbildung fertig gemacht.",
+            "url": "images/babysitter3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Marilù B 81377 München Sendling-Westpark",
+            "content": "Hallo!Ich heiße Marilù, bin 20 Jahre alt und studiere Politikwissenschaften an der LMU München.In Bari (so heißt die Stadt, wo ich aufgewachsen bin) habe ich eine deutsche Schule besucht,die mir dann die Möglichkeit gegeben hat,im Ausland mit dem Studium anzufangen.",
+            "url": "images/babysitter4.jpg"
+        },
+
+        {
+            "id": 5,
+            "title": "Michelle T. 81543 München Au-Haidhausen",
+            "content": "Mein Name ist Michelle, ich gehe derzeit auf die Berufsoberschule für Wirtschaft und suche einen Job bei dem ich mir nebenbei etwas dazu verdienen kann. Ich habe ein wenig Erfahrung gesammelt beim Babysitten von Nachbarskindern seit dem ich 13 bin.",
+            "url": "images/babysitter5.jpg"
+        },
+
+        {
+            "id": 6,
+            "title": "Katharina K. 80339 München Schwanthalerhöhe",
+            "content": "Babysitter, mein allererster kleiner Job mit 12, ich durft damals auf die kleine Tochter einer Bekannte aufpassen.. Mittlerweile bin ich 25 Jahre alt , fertig mit dem Studium in Hotel- und Tourismusmanagement, arbeite fest angestellt und liebe Kinder noch immer.",
+            "url": "images/babysitting6.jpg"
+        }
+    
+    ]
+}

@@ -1,0 +1,91 @@
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .sub-heading {
+    font-size: 20px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .job-details {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .contact-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rosybrown;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contact-button:hover {
+    background-color: #b56363;
+  }
+ /* membertwosub2.css */
+
+.sub-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .job-details {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .contact-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rosybrown;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contact-button:hover {
+    background-color: #b56363;
+  }
+ 
+  .such2 {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    border:2px solid #ced1e1;
+    border-radius: 20px;
+    width: 50rem;
+    padding: 2rem;
+    box-shadow: 0px 0px 20px 20px #ced1e1; 
+  }
+ .such {
+    display: flex;
+    justify-content: center;
+  
+  }
+ 
